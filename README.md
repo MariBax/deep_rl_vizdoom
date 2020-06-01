@@ -1,2 +1,2 @@
-# deep_rl_in_vizdoom
+# deep_rl_vizdoom
 Deep Reinforcement Learning with Pythorch on VizDoom
