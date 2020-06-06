@@ -1,2 +1,9 @@
-# deep_rl_vizdoom
-Deep Reinforcement Learning with Pythorch on VizDoom
+# Deep Reinforcement Learning with Pythorch on VizDoom
+
+### Methods
+* Deep Q-Network
+* Double Dueling Q-Network
+
+### Prerequisites
+* Python 3.5
+* ViZDoom (https://github.com/mwydmuch/ViZDoom)
