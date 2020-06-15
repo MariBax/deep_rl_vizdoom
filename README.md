@@ -7,3 +7,7 @@
 ### Prerequisites
 * Python 3.5
 * ViZDoom (https://github.com/mwydmuch/ViZDoom)
+
+### TODO
+* Code refactoring
+* A2C
