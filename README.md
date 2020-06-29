@@ -3,6 +3,7 @@
 ### Methods
 * Deep Q-Network
 * Double Dueling Q-Network
+* A2C, A3C
 
 ### Prerequisites
 * Python 3.5
@@ -10,4 +11,6 @@
 
 ### TODO
 * Code refactoring
-* A2C
+
+### References
+A3C: https://github.com/Swirler/Deep-Reinforcement-Learning-applied-to-DOOM
