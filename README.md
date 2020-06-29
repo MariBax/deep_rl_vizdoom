@@ -6,7 +6,7 @@
 * A2C, A3C
 
 ### Prerequisites
-* Python 3.5
+* Python 3.7
 * ViZDoom (https://github.com/mwydmuch/ViZDoom)
 
 ### TODO
